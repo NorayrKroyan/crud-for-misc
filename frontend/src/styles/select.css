@@ -1,0 +1,38 @@
+/* Make vue3-select visually match your existing input styles */
+.vsel {
+    width: 100%;
+    max-width: 360px;
+}
+
+.vsel .vs__dropdown-toggle {
+    min-height: 36px;
+    border-radius: 6px;
+    border: 1px solid #d1d5db;
+    background: #fff;
+    padding: 2px 8px;
+}
+
+.vsel .vs__selected,
+.vsel .vs__search {
+    font-size: 14px;
+}
+
+.vsel .vs__search {
+    margin: 0;
+}
+
+.vsel .vs__clear,
+.vsel .vs__open-indicator {
+    transform: none;
+}
+
+.vsel .vs__dropdown-menu {
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    box-shadow: 0 10px 15px rgba(0,0,0,0.08);
+}
+
+.vsel .vs__dropdown-option {
+    font-size: 14px;
+    padding: 8px 10px;
+}
