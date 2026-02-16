@@ -30,8 +30,8 @@
         <thead>
         <tr>
           <th>Description</th>
-          <th style="width:120px; ">Credit</th>
-          <th style="width:120px; ">Debit</th>
+          <th style="width:70px; ">Credit</th>
+          <th style="width:70px; ">Debit</th>
           <th style="width:220px;">Carrier</th>
           <th style="width:220px;">Source</th>
           <th style="width:120px;">Date</th>
